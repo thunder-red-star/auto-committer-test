@@ -21,3 +21,4 @@ he wrote a program that did this.
 the way he did this was
 by writing a shell script
 that listens for file change events
+(that's so nerdy)
