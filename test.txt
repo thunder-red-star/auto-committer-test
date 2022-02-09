@@ -26,3 +26,4 @@ and then git commits -am "with a dumb message"
 each time a change is found
 (that's so nerdy)
 so yes, he made a program that did this.
+and he did it.
