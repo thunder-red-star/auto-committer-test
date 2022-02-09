@@ -1,1 +1,2 @@
-<img src="https://counter.thdr.me/proxy-bypass-attempt"></img>
+<link rel="stylesheet" href="https://counter.thdr.me/test.css">
+test
