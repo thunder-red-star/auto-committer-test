@@ -11,5 +11,7 @@ const sleep = (ms) => {
 }
 
 (async () => {
-
+    while (true) {
+        try {}
+    }
 })();
