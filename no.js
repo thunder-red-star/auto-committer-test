@@ -12,6 +12,8 @@ const sleep = (ms) => {
 
 (async () => {
     while (true) {
-        try {}
+        try {
+            fs.appendFileSync()
+        }
     }
 })();
