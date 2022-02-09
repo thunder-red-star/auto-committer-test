@@ -18,3 +18,5 @@ jetbrains autosaves on stop typing
 code blah blah
 
 this is gonna be like 500 commits :(
+
+the file pushing stuff is called autogit.sh
