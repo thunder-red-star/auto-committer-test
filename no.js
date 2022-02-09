@@ -14,6 +14,10 @@ const sleep = (ms) => {
     while (true) {
         try {
             fs.appendFileSync("log.txt", "Hello World\t" + new Date().toISOString() + "\n")
+            sleep(1000)
+        }
+        catch (e) {
+            console.log(e)
         }
     }
 })();
