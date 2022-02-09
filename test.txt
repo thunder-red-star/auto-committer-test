@@ -20,3 +20,6 @@ code blah blah
 this is gonna be like 500 commits :(
 
 the file pushing stuff is called autogit.sh
+
+because thunderredstar the coder can name stuff nicely
+
