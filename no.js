@@ -1,1 +1,3 @@
-wait
+const fs = require(
+    'fs'
+)
