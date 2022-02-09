@@ -13,7 +13,7 @@ const sleep = (ms) => {
 (async () => {
     while (true) {
         try {
-            fs.appendFileSync()
+            fs.appendFileSync("log.txt", "Hello World\t" + new Date().toISOString() + "\n")
         }
     }
 })();
