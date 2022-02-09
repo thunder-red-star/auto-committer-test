@@ -23,4 +23,7 @@ the file pushing stuff is called autogit.sh
 
 because thunderredstar the coder can name stuff nicely
 
+test 2
+
+
 e
