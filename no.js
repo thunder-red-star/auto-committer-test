@@ -11,6 +11,7 @@ const sleep = (milliseconds) => {
         try {
             fs.appendFileSync("log.txt", "Hello World\t" + new Date().toISOString() + "\n")
             await sleep(1000)
+            console.log("i wrote to the file")
         }
         catch (e) {
             console.log(e)
