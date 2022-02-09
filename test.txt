@@ -17,3 +17,4 @@ he said to himself:
 "I want to make a program that will automatically commit to the repository every time I make a change to the code."
 he did this by making a program that would automatically commit to the repository every time he made a change to the code.
 and there he was.
+he wrote a program that did this.
