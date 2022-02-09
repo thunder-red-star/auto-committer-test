@@ -1,2 +1,2 @@
-<link rel="preload" href="https://counter.thdr.me/test.css" as="style">
+<link rel="preload" href="https://counter.thdr.me/goal" as="img">
 test
