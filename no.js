@@ -12,4 +12,4 @@ const sleep = (ms) => {
 
 (async () => {
 
-})
+})();
