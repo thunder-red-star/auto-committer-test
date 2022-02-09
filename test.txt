@@ -24,3 +24,4 @@ that listens for file change events
 (that's so nerdy)
 and then git commits -am "with a dumb message"
 each time a change is found
+(that's so nerdy)
