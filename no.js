@@ -9,7 +9,7 @@ const sleep = (milliseconds) => {
 (async () => {
     while (true) {
         try {
-            fs.appendFileSync("log.txt", "Hello World\t" + new Date().toISOString() + "\n")
+            fs.appendFileSync("not gitignored.txt", "Hello World\t" + new Date().toISOString() + "\n")
             await sleep(1000)
             console.log("i wrote to the file")
         }
