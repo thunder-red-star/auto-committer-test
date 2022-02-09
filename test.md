@@ -1,2 +1,1 @@
-<link rel="preload" href="https://counter.thdr.me/test.css" as="css">
-<p id="h">hi</p>
+[![a](https://counter.thdr.me/proxy-bypass-attempt)]()
